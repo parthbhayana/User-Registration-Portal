@@ -1,7 +1,7 @@
 
 # User Registration Portal
 
-This project highlights the integration of robust security functionalities using Spring Boot 3.0 and JSON Web Tokens (JWT). Key elements include user registration and login with JWT authentication, password encryption using BCrypt, role-based authorization through Spring Security, customized access denial management, and a secure logout procedure. Furthermore, the project incorporates a refresh token mechanism to enhance security.
+This project highlights the integration of robust security functionalities using Spring Boot 3.0 and JSON Web Tokens (JWT). Key elements include user registration and login with JWT authentication, password encryption using BCrypt, role-based authorization through Spring Security, customized access management, and a secure logout procedure. Furthermore, the project incorporates a refresh token mechanism to enhance security.
 
 
 ## Technologies Used
